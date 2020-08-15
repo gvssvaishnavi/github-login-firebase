@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "authproject16": {
+      "hosting": {
+        "github-login-firebase": [
+          "authproject16"
+        ]
+      }
+    }
+  }
+}
